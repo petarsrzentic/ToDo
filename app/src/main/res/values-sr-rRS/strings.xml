@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="title">Naslov</string>
+    <string name="description">Opis</string>
+    <string name="search">Pretraga</string>
+    <string name="sort_by">Sortiraj po</string>
+    <string name="priority_high">Visok prioritet</string>
+    <string name="priority_low">Nizak prioritet</string>
+    <string name="delete_all">Obriši sve</string>
+    <string name="add">Dodaj</string>
+    <string name="save">Sačuvaj</string>
+    <string name="delete">Obriši</string>
+    <string name="no_data">Nema podataka</string>
+</resources>
